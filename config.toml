@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Sam Tate | Web and Voice Development"
+title = "Sam Tate | Web and Voice Development in NC"
 [[menu.main]]
 URL = "about"
 name = "About"
