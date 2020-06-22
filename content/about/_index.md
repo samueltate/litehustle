@@ -6,6 +6,6 @@ author_image: "/images/sam.png"
 author_signature: ''
 
 ---
-Hi. My name is Sam and I'm a tech professional located in Raleigh, NC. 
+Hi. My name is Sam and I'm a tech professional located in Raleigh, NC.
 
-During my professional career, I've worked for both private and public sectors. My background includes Enterprise Web development, Technical Account Management, Drupal, Wordpress, JAMStack and Voice Assistant development. 
+During my professional career, I've worked for both private and public sectors. My areas of expertise gravitate towards includes Enterprise Web development, Drupal, Wordpress, JAMStack and Voice Assistants.
