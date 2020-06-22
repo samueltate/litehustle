@@ -16,7 +16,7 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Apps
+  - title: Web Development
     progress: 90%
     color: "#fdb157"
   - title: Drupal
@@ -60,7 +60,7 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: CMS Development
+  - title: Web Development
     icon: ti-vector
     content: 'Drupal and Wordpress development and site management. '
     highlighted: true
