@@ -45,7 +45,7 @@ experience:
     company: Tango Legal
     duration: Apr 2020 - Present
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Bachelors of Science
