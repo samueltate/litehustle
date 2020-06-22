@@ -27,7 +27,7 @@ logo = "images/logo.png"
 phone = ""
 theme_color = "#3d5a80"
 [params.contact]
-enable = true
+enable = false
 form_action = ""
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
