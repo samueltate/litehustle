@@ -21,13 +21,13 @@ skill:
     color: "#fdb157"
   - title: Drupal
     progress: 90%
-    color: "#ffbcaa"
+    color: "#bdecf6"
   - title: Voice Apps
     progress: 80%
     color: "#9473e6"
   - title: Project Managment
     progress: 80%
-    color: "#bdecf6"
+    color: "#ffbcaa"
 experience:
   enable: true
   title: Experience
