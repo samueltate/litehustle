@@ -20,11 +20,11 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = ""
+author = ""
+copyright = ""
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "sam@tangolegal.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
@@ -51,14 +51,11 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/tangolegal"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/tangolegal/"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/tangolegal"
 icon = "ti-twitter-alt"
