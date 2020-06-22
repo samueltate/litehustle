@@ -28,7 +28,7 @@ phone = ""
 theme_color = "#3d5a80"
 [params.contact]
 enable = true
-form_action = "mailto:sammytate1@gmail.com"
+form_action = ""
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
