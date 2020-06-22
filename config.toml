@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = ""
+address = "Raleigh, NC"
 author = ""
 copyright = ""
 description = "This is meta description"
