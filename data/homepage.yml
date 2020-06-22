@@ -16,16 +16,16 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Web Apps
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Voice Apps
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
+  - title: Project Managment
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
+  - title: Drupal
     progress: 70%
     color: "#ffbcaa"
 experience:
