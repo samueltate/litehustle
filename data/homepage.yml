@@ -48,18 +48,9 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: Bachelors of Science
+    year: "2005"
+    academy: Appalachian State University
 service:
   enable: true
   title: Services
@@ -84,7 +75,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
