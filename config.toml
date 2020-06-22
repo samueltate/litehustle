@@ -51,11 +51,11 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
+URL = "https://twitter.com/tangolegal"
+icon = "ti-twitter-alt"
+[[params.social]]
 URL = "https://www.facebook.com/tangolegal"
 icon = "ti-facebook"
 [[params.social]]
 URL = "https://www.instagram.com/tangolegal/"
 icon = "ti-instagram"
-[[params.social]]
-URL = "https://twitter.com/tangolegal"
-icon = "ti-twitter-alt"
