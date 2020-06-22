@@ -51,6 +51,9 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
+URL = "https://www.linkedin.com/in/samuel-a-tate/"
+icon = "ti-linkedin"
+[[params.social]]
 URL = "https://twitter.com/tangolegal"
 icon = "ti-twitter-alt"
 [[params.social]]
