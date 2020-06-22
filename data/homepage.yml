@@ -55,23 +55,21 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: App Development
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: UX Design
+  - title: CMS Development
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'Drupal and Wordpress development and site management. '
     highlighted: true
-  - title: Interaction Design
+  - title: Voice Assistants
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'VUI and Development for Alexa and Google Assistants '
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
