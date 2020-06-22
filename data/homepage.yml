@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> Samuel <br> I build things.
+  title: Hi! I’m <br> Sam Tate <br> I build things.
 about:
   enable: true
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -22,7 +22,7 @@ skill:
   - title: Drupal
     progress: 90%
     color: "#bdecf6"
-  - title: Voice Apps
+  - title: Voice Assistants
     progress: 80%
     color: "#9473e6"
   - title: Project Managment
