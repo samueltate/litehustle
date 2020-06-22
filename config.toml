@@ -24,7 +24,7 @@ email = "sam@tangolegal.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = ""
+phone = "Email Preferred"
 theme_color = "#3d5a80"
 [params.contact]
 enable = false
