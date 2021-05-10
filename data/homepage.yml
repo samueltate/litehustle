@@ -56,7 +56,8 @@ service:
   item:
   - title: SEO
     icon: ti-search
-    content: ''
+    content: 'Search engine optimization is our sweet spot. Our team specializes in
+      SEO that drives new user engagement as well as top notch page experiences. '
     highlighted: true
   - title: App Development
     icon: ti-ruler-pencil
