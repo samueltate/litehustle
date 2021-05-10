@@ -3,13 +3,11 @@ banner:
   title: A Full Service Web Development and SEO Firm.
 about:
   enable: true
-  content: "Hi. My name is Sam and I'm a tech professional located in Raleigh, NC.
-    \n\nDuring my professional career, I've worked for both private and public sectors.
-    My areas of expertise gravitate towards includes Enterprise Web development, Drupal,
-    Wordpress, JAMStack and Voice Assistants. "
+  content: 'We are dedicated to making your digital vision a reality. Our firm offers
+    full service website development, maintenance, and search engine optimization.  '
   button:
     enable: true
-    label: learn more about me
+    label: Get in touch
     URL: about
 skill:
   enable: true
