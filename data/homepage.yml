@@ -57,7 +57,7 @@ service:
     content: 'Search engine optimization is our sweet spot. Our team specializes in
       SEO that drives new user engagement as well as top notch page experiences. '
     highlighted: true
-  - title: Web Development
+  - title: Website Development
     icon: ti-drupal
     content: We're a full-service firm for Drupal, Wordpress, and JAMStack site development.
     highlighted: true
