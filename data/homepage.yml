@@ -10,10 +10,10 @@ about:
     label: Get in touch
     URL: about
 skill:
-  enable: true
-  title: Skills
+  enable: false
+  title: Our Bread & Butter
   item:
-  - title: Web Development
+  - title: JAMStack Web Development
     progress: 100%
     color: "#fdb157"
   - title: SEO
@@ -26,7 +26,7 @@ skill:
     progress: 100%
     color: "#ffbcaa"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
