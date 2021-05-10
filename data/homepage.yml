@@ -10,7 +10,7 @@ about:
     label: Get in touch
     URL: about
 skill:
-  enable: false
+  enable: true
   title: Our Bread & Butter
   item:
   - title: JAMStack Web Development
