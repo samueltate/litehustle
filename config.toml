@@ -25,6 +25,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "/images/wgroup-logo.png"
 phone = "‪720-465-2058‬"
+social = []
 theme_color = "#3d5a80"
 [params.contact]
 enable = false
@@ -46,15 +47,3 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "https://www.linkedin.com/in/samuel-a-tate/"
-icon = "ti-linkedin"
-[[params.social]]
-URL = "https://twitter.com/tangolegal"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "https://www.facebook.com/tangolegal"
-icon = "ti-facebook"
-[[params.social]]
-URL = "https://www.instagram.com/tangolegal/"
-icon = "ti-instagram"
