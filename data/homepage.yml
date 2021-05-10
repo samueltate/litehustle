@@ -62,13 +62,13 @@ service:
     content: 'We offer a wide range of services to our clients. Need a super fast
       JAMStack website for your new business? Perhaps a redesign of an existing Drupal
       or Wordpress site? Whatever the need, we''re ready to set you up for success. '
-    highlighted: true
+    highlighted: false
   - title: Conversational AI Design and Development
     icon: ti-ruler-pencil
     content: 'Conversational AI is becoming a staple for companies in recent times.
       We are experienced in designing and developing engaging voice, chat, and SMS
       applications for our clients. '
-    highlighted: true
+    highlighted: false
 portfolio:
   enable: false
   title: Portfolio
