@@ -59,7 +59,9 @@ service:
     highlighted: true
   - title: Website Development
     icon: ti-drupal
-    content: We're a full-service firm for Drupal, Wordpress, and JAMStack site development.
+    content: 'We offer a wide range of services to our clients. Need a super fast
+      JAMStack website for your new business? Perhaps a redesign of an existing Drupal
+      or Wordpress site? Whatever the need, we''re ready to set you up for success. '
     highlighted: true
   - title: Conversational AI Design and Development
     icon: ti-ruler-pencil
