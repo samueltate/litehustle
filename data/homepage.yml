@@ -55,7 +55,7 @@ service:
   title: Services
   item:
   - title: SEO
-    icon: ''
+    icon: ti-search
     content: ''
     highlighted: true
   - title: App Development
