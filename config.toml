@@ -16,7 +16,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "Raleigh, NC"
+address = "The Websight Group, LLC is Headquartered in Raleigh, NC."
 author = ""
 copyright = "Copyright The Websight Group, LLC 2021"
 description = "The Websight Group is a full service web development firm in Raleigh, NC. "
