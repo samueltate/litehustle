@@ -21,8 +21,8 @@ skill:
   - title: Web Development
     progress: 90%
     color: "#fdb157"
-  - title: Drupal
-    progress: 90%
+  - title: Drupal & Wordpress
+    progress: 100%
     color: "#bdecf6"
   - title: Project Managment
     progress: 80%
