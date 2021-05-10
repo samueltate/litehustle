@@ -8,4 +8,4 @@ author_signature: ''
 ---
 Hi. My name is Sam and I'm a tech professional located in Raleigh, NC.
 
-During my professional career, I've worked for both private and public sectors. My areas of expertise gravitate towards includes Enterprise Web development, Drupal, Wordpress, JAMStack and Voice Assistants.
+During my professional career, I've worked for both private and public sectors. My areas of expertise gravitate towards includes Enterprise Web development, Drupal, Wordpress, JAMStack and SEO.
