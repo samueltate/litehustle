@@ -18,7 +18,7 @@ weight = 5
 [params]
 address = "Raleigh, NC"
 author = ""
-copyright = ""
+copyright = "Copyright The Websight Group, LLC 2021"
 description = "The Websight Group is a full service web development firm in Raleigh, NC. "
 email = "hello@thewebsightgroup.com"
 google_analitycs_id = "Your ID"
@@ -29,7 +29,7 @@ social = []
 theme_color = "#3d5a80"
 [params.contact]
 enable = true
-form_action = "/"
+form_action = "/contact"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
