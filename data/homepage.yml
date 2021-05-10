@@ -59,7 +59,7 @@ service:
     content: ''
     highlighted: true
   - title: App Development
-    icon: ti-palette
+    icon: ti-ruler-pencil
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
