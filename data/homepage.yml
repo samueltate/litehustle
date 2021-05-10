@@ -61,11 +61,12 @@ service:
     icon: ti-drupal
     content: We're a full-service firm for Drupal, Wordpress, and JAMStack site development.
     highlighted: true
-  - title: Application Development
+  - title: Conversational AI Design and Development
     icon: ti-ruler-pencil
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
+    content: 'Conversational AI is becoming a staple for companies in recent times.
+      We are experienced in designing and developing engaging voice, chat, and SMS
+      applications for our clients. '
+    highlighted: true
 portfolio:
   enable: false
   title: Portfolio
