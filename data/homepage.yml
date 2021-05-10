@@ -65,7 +65,7 @@ service:
     highlighted: false
   - title: Web Development
     icon: ti-drupal
-    content: 'Drupal and Wordpress development and site management. '
+    content: We're a full-service firm for Drupal, Wordpress, and JAMStack site development.
     highlighted: true
 portfolio:
   enable: false
