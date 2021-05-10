@@ -15,15 +15,15 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: SEO
+    progress: "100"
+    color: ''
   - title: Web Development
     progress: 90%
     color: "#fdb157"
   - title: Drupal
     progress: 90%
     color: "#bdecf6"
-  - title: Voice Assistants
-    progress: 80%
-    color: "#9473e6"
   - title: Project Managment
     progress: 80%
     color: "#ffbcaa"
