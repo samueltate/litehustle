@@ -15,12 +15,12 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Web Development
+    progress: 100%
+    color: "#fdb157"
   - title: SEO
     progress: 100%
     color: ''
-  - title: Web Development
-    progress: 90%
-    color: "#fdb157"
   - title: Drupal & Wordpress
     progress: 100%
     color: "#bdecf6"
