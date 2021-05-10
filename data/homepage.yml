@@ -20,7 +20,7 @@ skill:
     color: "#fdb157"
   - title: SEO
     progress: 100%
-    color: ''
+    color: "#e84ca1"
   - title: Drupal & Wordpress
     progress: 100%
     color: "#bdecf6"
