@@ -54,6 +54,10 @@ service:
   enable: true
   title: Services
   item:
+  - title: SEO
+    icon: ''
+    content: ''
+    highlighted: true
   - title: App Development
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -63,10 +67,6 @@ service:
     icon: ti-vector
     content: 'Drupal and Wordpress development and site management. '
     highlighted: true
-  - title: Voice Assistants
-    icon: ti-panel
-    content: 'VUI and Development for Alexa and Google Assistants '
-    highlighted: false
 portfolio:
   enable: false
   title: Portfolio
