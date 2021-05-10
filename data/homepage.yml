@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> Sam Tate <br> I build things.
+  title: Hi! We are the Websight Group. Let's turn your vision into something amazing.
 about:
   enable: true
   content: "Hi. My name is Sam and I'm a tech professional located in Raleigh, NC.
@@ -59,15 +59,15 @@ service:
     content: 'Search engine optimization is our sweet spot. Our team specializes in
       SEO that drives new user engagement as well as top notch page experiences. '
     highlighted: true
+  - title: Web Development
+    icon: ti-drupal
+    content: We're a full-service firm for Drupal, Wordpress, and JAMStack site development.
+    highlighted: true
   - title: App Development
     icon: ti-ruler-pencil
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: Web Development
-    icon: ti-drupal
-    content: We're a full-service firm for Drupal, Wordpress, and JAMStack site development.
-    highlighted: true
 portfolio:
   enable: false
   title: Portfolio
