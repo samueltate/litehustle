@@ -50,7 +50,7 @@ education:
     academy: Appalachian State University
 service:
   enable: true
-  title: Services
+  title: Our Services
   item:
   - title: SEO
     icon: ti-search
@@ -61,7 +61,7 @@ service:
     icon: ti-drupal
     content: We're a full-service firm for Drupal, Wordpress, and JAMStack site development.
     highlighted: true
-  - title: App Development
+  - title: Application Development
     icon: ti-ruler-pencil
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
