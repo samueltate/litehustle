@@ -23,7 +23,7 @@ description = "The Websight Group is a full service web development firm in Rale
 email = "hello@thewebsightgroup.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "/images/wgroup-logo.png"
 phone = "Email Preferred"
 theme_color = "#3d5a80"
 [params.contact]
