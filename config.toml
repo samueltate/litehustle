@@ -2,18 +2,19 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Sam Tate | Web and Voice Development in NC"
-[[menu.main]]
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
+title = "The Websight Group | Raleigh Web Development and SEO Services "
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "Raleigh, NC"
 author = ""
