@@ -16,7 +16,7 @@ skill:
   title: Skills
   item:
   - title: SEO
-    progress: "100"
+    progress: 100%
     color: ''
   - title: Web Development
     progress: 90%
