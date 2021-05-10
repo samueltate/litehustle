@@ -52,11 +52,11 @@ service:
   enable: true
   title: Our Services
   item:
-  - title: SEO
+  - title: SEO & Social Media
     icon: ti-search
-    content: 'Search engine optimization is our sweet spot. Our team specializes in
-      building SEO strategies that drive user engagement as well as top notch page
-      experiences. '
+    content: 'Search engine and Social Media optimization is our sweet spot. Our team
+      specializes in building winning strategies that drive user engagement as well
+      as top notch page experiences. '
     highlighted: true
   - title: Website Development
     icon: ti-drupal
